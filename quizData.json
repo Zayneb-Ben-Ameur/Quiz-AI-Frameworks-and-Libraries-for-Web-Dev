@@ -1,0 +1,34 @@
+[
+    {
+      "question": "Quel framework JavaScript est spécifiquement conçu pour intégrer des fonctionnalités d'apprentissage automatique dans le navigateur ?",
+      "options": ["Angular", "React", "TensorFlow.js", "Vue.js"],
+      "answer": 2
+    },
+    {
+      "question": "Quelle bibliothèque JavaScript peut être utilisée pour le traitement du langage naturel sur le Web ?",
+      "options": ["NumPy.js", "Compromise", "Keras.js", "Plotly.js"],
+      "answer": 1
+    },
+    {
+        "question":"Pour intégrer des modèles de vision par ordinateur dans les applications Web, quelle bibliothèque pourrait être la plus appropriée ?",
+        "options":["D3.js","ML5.js","Three.js","P5.js"],
+        "answer": 1
+    },
+    {
+        "question":"Quelle bibliothèque AI est bien adaptée pour le développement de chatbots interactifs dans les applications Web ?",
+        "options":["Brain.js","Dialogflow","TensorSpace","Synaptic.js"],
+        "answer": 1
+    },
+    {
+        "question":"Quelle option est vraie concernant TensorFlow.js ?",
+        "options":["Il ne fonctionne que côté serveur.","Il nécessite une installation de Python.","Il permet l'exécution de modèles d'apprentissage automatique dans le navigateur.","Il est uniquement destiné à la visualisation de données."],
+        "answer": 2
+    },
+    {
+        "question":"Laquelle des bibliothèques suivantes est utilisée pour créer des interfaces utilisateur conversationnelles (UI) basées sur l'IA ?",
+        "options":["Vue.AI","BotUI","AI.js","Speechly"],
+        "answer": 1
+    }
+   
+]
+  
